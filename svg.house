@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="cro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Svg art</title>
+</head>
+<body>
+<!--nisam mogao tocno boje pogodit pa sam malo promjenio, nadam se da je ok-->
+    <Svg width="500" height="400">
+        <rect width="500" height="400" style="fill: deepskyblue;"/>
+        <circle cx="390" cy="50" r="30" fill="yellow"/>
+        <rect width="20" height="60" x="140" y="188" style="fill: brown;"/>
+        <circle cx="150" cy="150" r="50" fill="green"/>
+        <rect width="500" height="200" x="0" y="245" style="fill: darkseagreen;"/>
+        <rect width="110" height="110" x="240" y="135" style="fill: lightgray;"/>
+        <rect width="25"  height="25"  x="250" y="200" style="fill: white;" stroke="black" stroke-width="1"/>
+        <line x1="262" y1="225" x2="262" y2="200" stroke="black"/>
+        <line x1="275" y1="212" x2="250" y2="212" stroke="black"/>
+        <rect width="25" height="25" x="250" y="150" style="fill: white;" stroke="black" stroke-width="1"/>
+        <line x1="262" y1="175" x2="262" y2="150" stroke="black"/>
+        <line x1="275" y1="162" x2="250" y2="162" stroke="black"/>
+        <rect width="25" height="25" x="310" y="150" style="fill: white;" stroke="black"/>
+        <line x1="322" y1="150" x2="322" y2="175" stroke="black"/>
+        <line x1="310" y1="162" x2="335" y2="162" stroke="black"/>
+        <rect width="25" height="45" x="310" y="200" style="fill: brown;"/>
+        <circle cx="315" cy="225" r="2" fill="gold"/>
+        <polygon points="365,140 225,140 290,100" style="fill:firebrick;" stroke="black" stroke-width="1"/>
+
+     </Svg>
+</body>
+</html>
